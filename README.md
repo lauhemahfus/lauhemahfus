@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/lauhemahfus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lauhemahfus" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauhe-mahfus-labib&show_icons=true&theme=dark&locale=en&layout=compact" alt="lauhe-mahfus-labib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauhemahfus&show_icons=true&theme=dark&locale=en&layout=compact" alt="lauhe-mahfus-labib" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauhe-mahfus-labib&show_icons=true&theme=dark&locale=en" alt="lauhe-mahfus-labib" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauhe-mahfus-labib&label=Profile%20views&color=13c5dd&style=flat-square" alt="lauhe-mahfus-labib" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauhemahfus&show_icons=true&theme=dark&locale=en" alt="lauhe-mahfus-labib" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauhemahfus&label=Profile%20views&color=13c5dd&style=flat-square" alt="lauhe-mahfus-labib" /> </p>
