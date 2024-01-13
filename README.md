@@ -17,6 +17,8 @@
 <a href="https://www.leetcode.com/lauhemahfus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lauhemahfus" height="30" width="40" /></a>
 </p>
 
+
+![](https://leetcard.jacoblin.cool/lauhemahfus?animation=false)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauhemahfus&show_icons=true&theme=dark&locale=en&layout=compact" alt="lauhe-mahfus-labib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauhemahfus&show_icons=true&theme=dark&locale=en" alt="lauhe-mahfus-labib" /></p>
