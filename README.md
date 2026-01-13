@@ -1,6 +1,6 @@
-# Hi there! I'm Lauhe Mahfus Labib
+<img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/c3607a41-eaca-4da4-a2f6-7c5d9e2365df" />
 
-## About Me
+# Hi there! I'm Lauhe Mahfus Labib
 
 I'm a Backend Developer and Machine Learning enthusiast from Dhaka, Bangladesh. I build reliable systems, write efficient code, and enjoy solving algorithmic problems. I work on projects that turn ideas into practical, working solutions.
 
@@ -74,20 +74,54 @@ I'm a Backend Developer and Machine Learning enthusiast from Dhaka, Bangladesh. 
 
 </div>
 
-## Activity Graph
 
-<div align="center">
+## GitHub Activity & Stats
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lauhemahfus&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="#stats">
+        <picture>
+          <source srcset="https://github-readme-stats-mahmud0808.vercel.app/api?username=lauhemahfus&rank_icon=github&theme=dark&text_bold=false&hide_border=true&bg_color=00000000&show_icons=true&hide=issues,contribs&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+          <img src="https://github-readme-stats-mahmud0808.vercel.app/api?username=lauhemahfus&rank_icon=github&theme=dark&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="#top-langs">
+        <picture>
+          <source srcset="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=lauhemahfus&layout=compact&theme=dark&text_bold=false&hide_border=true&bg_color=00000000&hide=html" media="(prefers-color-scheme: dark)" />
+          <img src="https://github-readme-stats-mahmud0808.vercel.app/api/top-langs/?username=lauhemahfus&layout=compact&theme=dark&text_bold=false&hide_border=true&bg_color=00000000&hide=html" alt="Top Languages" />
+        </picture>
+      </a>
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td align="center" width="50%">
+      <a href="#streak-stats">
+        <picture>
+          <source srcset="https://github-readme-streak-stats-eight.vercel.app?user=lauhemahfus&date_format=j%20M%5B%20Y%5D&theme=dark&border_radius=0&background=00000000&border=30363D&stroke=30363D&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lauhemahfus&date_format=j%20M%5B%20Y%5D&theme=dark&border_radius=0&background=00000000&border=30363D&stroke=30363D&hide_border=true" alt="Streak Stats" />
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="#trophies">
+        <img src="https://github-profile-trophy-roan.vercel.app/?username=lauhemahfus&theme=dark_lover&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=6&margin-h=6&no-bg=true" alt="GitHub Trophies" />
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" width="50%" colspan="2">
+      <a href="#activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=lauhemahfus&theme=react-dark&hide_border=true" alt="Activity Graph" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <div align="center">
 
